@@ -47,7 +47,7 @@ export default function Login() {
             href="/cadastro"
             className="underline text-blue-500 flex justify-center"
           >
-            Cadastre-se
+           
           </Link>
           </div>
         </div>
